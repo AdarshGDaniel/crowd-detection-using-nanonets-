@@ -29,7 +29,7 @@ json_data = response.json()
 #this image is to disply with all the plots
 #replace this example path with your path to the image you want to display 
 
-im = np.array(Image.open('/Users/adarshgdaniel/Desktop/nano/nanonets-pedestrian-detection/images/88.jpg'), dtype=np.uint8)
+im = np.array(Image.open('/Users/admin/Desktop/nano/nanonets-pedestrian-detection/images/88.jpg'), dtype=np.uint8)
 fig,ax = plt.subplots(1)
 ax.imshow(im)
 
