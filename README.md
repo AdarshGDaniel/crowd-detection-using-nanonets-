@@ -7,7 +7,7 @@ We used matplotlib for drawing the plots.
 There are Few steps you should do before you run the program
 
   First : make sure you are inside the crowd detection directory 
-  second : run the following commands to export the IDs
+  <second : run the following commands to export the IDs>
       *export NANONETS_API_KEY=Wzqi3cwoOBXP_T5KKaHoCavBmw6tvwWb*
       *export NANONETS_MODEL_ID=eedd33cf-b149-4f22-989e-fd55f3a8993a*
     
